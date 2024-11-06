@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Agenda Llamada | Academia Conquer</title>
+    <meta name="description" content="Agenda llamada con nuestro equipo para tu inscripción">
+    
+    <link rel="icon" href="favicon.ico" type="image/x-icon">   
+    <meta name="theme-color" content="1e7bbf">
+</head>
+
+
+
+
+
+
+<body>
+    <header>
+        <figure>
+            <img width="150px" src="img/logo.png" alt="Logotipo Conquer">
+        </figure>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="quienes-somos.html">Quienes Somos</a></li>
+                <li><a href="cursos.html">Cursos</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="registro.html">Registro</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="contacto.html">Contactanos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Agenda llamada</h1>
+        <p>Agenda llamada con nuestro equipo para tu inscripción, se te informará de todo el proceso y podrás resolver todas tus dudas si las
+        tuvieses</p>
+            <form action="">
+                <p>
+                    <label for="name"> Nombre</label>
+                    <input type="text" name="name" id="name"required>
+                </p>  
+
+                <p>
+                    <label for="email"> Email</label>
+                    <input type="email" name="email" id="email" required>
+                </p>
+
+                <p>
+                    Teléfono <input type="tel" name="phone" pattern="\+?[0-9]*">
+                </p>
+
+                <p>
+                    Edad <input type="number" name="age" min="0" max="120">
+                </p>
+                
+                <p>Indique su experiencia en programación</p>
+                    <p><input type="range" min="0" max="10" name="phone"></p>   
+                <p>
+                    Selecciona la fecha y hora de reunión
+                    <input type="datetime-local" name="birth">
+                </p>
+                
+
+                <p>
+                    <button>Enviar</button>
+                    <input type="reset" value="Reiniciar Formulario">
+                </p>
+            </form>
+    
+
+       
+    </main>
+
+
+
+    <footer>
+        <p>© Academia Conquer 2024 <a href="aviso-legal.html">Aviso Legal</a></p>
+    
+    </footer>
+   
+</body>
+
+</html>
