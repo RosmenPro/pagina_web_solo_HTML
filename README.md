@@ -29,6 +29,10 @@ Este proyecto es una página web para una academia ficticia, una academia de pro
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, siéntete libre de crear un pull request.
 
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
 ---
 
 # Academy
@@ -61,4 +65,13 @@ This project is a webpage for a fictional academy, a FullStack programming acade
 ## Contributing
 
 Contributions are welcome. If you have suggestions or improvements, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
 
