@@ -29,6 +29,9 @@ Este proyecto es una página web para una academia ficticia, una academia de pro
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, siéntete libre de crear un pull request.
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 ## Autor
 
 - **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
